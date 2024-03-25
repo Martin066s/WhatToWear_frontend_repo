@@ -1,6 +1,6 @@
 # WhatToWear (frontend)
 
-#### WhatToWear frontend repository: https://github.com/Martin066s/WhatToWear_frontend_repo
+#### WhatToWear backend repository:https://github.com/Martin066s/WhatToWear_backend_repo.git
 
 WhatToWear recommends you clothes based on entered temperature. In later versions should recommend clothes based on realtime weather data from weather API.
 
